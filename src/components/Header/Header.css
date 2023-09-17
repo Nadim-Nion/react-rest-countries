@@ -1,0 +1,15 @@
+.header {
+    background-color: burlywood;
+    padding: 50px;
+    margin: 20px;
+    border: 2px solid goldenrod;
+    border-radius: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: blueviolet;
+    font-size: 20px;
+
+}
